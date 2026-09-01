@@ -1,3 +1,7 @@
+\\pero gay
+\\lgbtqi++
+
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
